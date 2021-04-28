@@ -1,6 +1,8 @@
 Untitled
 ================
 
+## This is a R markdown file
+
 ## GitHub Documents
 
 This is an R Markdown format used for publishing markdown documents to
